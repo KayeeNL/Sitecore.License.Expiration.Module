@@ -1,0 +1,5 @@
+# git ignore file
+_ReSharper.Sitecore.License.Expiration.Module*/
+Binaries*/
+Sitecore.License.Expiration.Module\bin*/
+Sitecore.License.Expiration.Module.v11.suo

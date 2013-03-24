@@ -1,0 +1,117 @@
+----item----
+version: 1
+id: {AAE814A9-6EB3-4F96-8F04-BD9A4B7094FB}
+database: master
+path: /sitecore/system/Modules/Sitecore License Expiration Module/Settings
+parent: {9DD99268-544A-4B55-9915-2C1677983D97}
+name: Settings
+master: {00000000-0000-0000-0000-000000000000}
+template: {7210C857-D27B-4325-A6FA-1346E8ECA366}
+templatekey: Settings
+
+----version----
+language: en
+version: 1
+revision: 762c18e1-3f5a-4fab-80e0-cd3fade1ebda
+
+----field----
+field: {FA20D73D-64BC-4F6F-B477-4FB2C6CBC5F1}
+name: AlwaysWarn
+key: alwayswarn
+content-length: 1
+
+1
+----field----
+field: {49216158-E8A5-4DA3-90C0-F8C62580C923}
+name: DefaultNumberOfDaysToWarn
+key: defaultnumberofdaystowarn
+content-length: 1
+
+7
+----field----
+field: {62211C79-9B02-4CF3-BACC-BAA8CC237D74}
+name: WarningTitle
+key: warningtitle
+content-length: 41
+
+Your Sitecore license is about to expire!
+----field----
+field: {65D9DD46-6F9A-4381-8CC4-B4711A6AF196}
+name: WarningSubtitle
+key: warningsubtitle
+content-length: 60
+
+Your Sitecore license for [url] is about to expire on [date]
+----field----
+field: {A4E0A6F0-D3D0-4DD4-9C87-7A74495FECD5}
+name: MailFrom
+key: mailfrom
+content-length: 20
+
+noreply@sitecore.net
+----field----
+field: {ACBEF3E1-BBBA-426F-B253-AB0C51BAA6AD}
+name: MailTo
+key: mailto
+content-length: 21
+
+your@emailaddress.com
+----field----
+field: {897B87E3-EC65-48E0-A3B3-7A8E0EEB7047}
+name: MailSubject
+key: mailsubject
+content-length: 60
+
+Your Sitecore license for [url] is about to expire on [date]
+----field----
+field: {191856C0-1BBC-441D-BC4C-ADC7BCA70D3C}
+name: MailContent
+key: mailcontent
+content-length: 285
+
+<p>Hi there, </p>
+<p>The Sitecore license file for domain [url] is about to expire on [date]. </p>
+<p>Make sure you update the license file to keep your Sitecore environment up and running. </p>
+<p>This is an automatically send email from the Sitecore License Expiration Module.</p>
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20130311T212900
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+762c18e1-3f5a-4fab-80e0-cd3fade1ebda
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20130318T223910:634992431507371604
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

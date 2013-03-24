@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.License.Expiration.Module", "Sitecore.License.Expiration.Module\Sitecore.License.Expiration.Module.csproj", "{239A1950-3C33-4FFA-BCCD-8794B8DD8415}"
+EndProject
+Project("{CAA73BB0-EF22-4D79-A57E-DF67B3BA9C80}") = "TDS.Master", "TDS.Master\TDS.Master.scproj", "{6E3FC64D-E332-4A8D-94C3-3FC1DCE65A9A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Packages", "Packages", "{2AB90CCA-D0F8-49D9-BCA3-4BDB5E13669E}"
+	ProjectSection(SolutionItems) = preProject
+		Packages\Sitecore License Expiration Module 2.0 - Version 1.0.0.0.zip = Packages\Sitecore License Expiration Module 2.0 - Version 1.0.0.0.zip
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{239A1950-3C33-4FFA-BCCD-8794B8DD8415}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{239A1950-3C33-4FFA-BCCD-8794B8DD8415}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{239A1950-3C33-4FFA-BCCD-8794B8DD8415}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{239A1950-3C33-4FFA-BCCD-8794B8DD8415}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E3FC64D-E332-4A8D-94C3-3FC1DCE65A9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E3FC64D-E332-4A8D-94C3-3FC1DCE65A9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E3FC64D-E332-4A8D-94C3-3FC1DCE65A9A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{6E3FC64D-E332-4A8D-94C3-3FC1DCE65A9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E3FC64D-E332-4A8D-94C3-3FC1DCE65A9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E3FC64D-E332-4A8D-94C3-3FC1DCE65A9A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
