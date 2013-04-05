@@ -3,12 +3,19 @@ Sitecore License Expiration Module 2.0
 
 The sourcecode of the Sitecore Shared Source module: Sitecore License Expiration Module 2.0. 
 
-The Sitecore License Expiration Module 2.0 checks the expiration date of the Sitecore license. It shows a Content Editor Warning message or/and sends an email to notify when the Sitecore license is about to expire.
+- The Sitecore License Expiration Module 2.0 checks the expiration date of the Sitecore license. 
+- It shows a Content Editor Warning message or/and sends an email to notify when the Sitecore license is about to expire.
 
-More Info:
+Sitecore Marketplace:
 ==================================
-This module is currently (March 24th 2013) in the waiting for approval state on the Sitecore Marketplace. Hopefully it will be available real soon.
+This module is available in the Sitecore Marketplace:
 
-gr,
+http://marketplace.sitecore.net/en/Modules/Sitecore_License_Expiration_Module.aspx
 
-Robbert
+----------------------------------
+Brought to you by Robbert Hock (Kayee, Internet & Software Oplossingen)
+
+Twitter: @kayeeNL   
+Web: http://www.kayee.nl
+
+Sitecore MVP 2010
