@@ -12,8 +12,14 @@ This module is available in the Sitecore Marketplace:
 
 http://marketplace.sitecore.net/en/Modules/Sitecore_License_Expiration_Module.aspx
 
-----------------------------------
-Brought to you by Robbert Hock (Kayee, Internet & Software Oplossingen)
+More info:
+==================================
+Blogpost: http://newguid.net/sitecore/2013/sitecore-license-expiration-module-2-0/
+
+
+Brought to you by:
+==================================
+Robbert Hock (Kayee, Internet & Software Oplossingen)
 
 Twitter: @kayeeNL   
 Web: http://www.kayee.nl
