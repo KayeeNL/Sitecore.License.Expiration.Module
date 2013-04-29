@@ -24,4 +24,4 @@ Robbert Hock (Kayee, Internet & Software Oplossingen)
 Twitter: @kayeeNL   
 Web: http://www.kayee.nl
 
-Sitecore MVP 2010
+Sitecore MVP 2010-2013
